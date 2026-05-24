@@ -1,3 +1,7 @@
+# MathSolverAI is homework help that actually teaches.
+
+Snap a photo of any math problem — from 1st grade addition to 12th grade calculus — and your AI tutor will guide you through it one step at a time. Instead of just giving you the answer, it asks the right questions, offers hints when you're stuck, and helps you find the solution yourself. That's how real learning happens.
+
 # Lumina Dev Apps — App Store Links
 
 _Generated May 24, 2026 at 13:01_
